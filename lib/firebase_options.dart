@@ -53,10 +53,10 @@ class DefaultFirebaseOptions {
     apiKey: 'AIzaSyAOtLZ5F57lUN1RsGY05SWPoTWbVCoP0ww',
     appId: '1:610083134108:web:318331816b2eb35d192b59',
     messagingSenderId: '610083134108',
-    projectId: 'belajarbersama-54559',
-    authDomain: 'belajarbersama-54559.firebaseapp.com',
-    databaseURL: 'https://belajarbersama-54559-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'belajarbersama-54559.firebasestorage.app',
+    projectId: 'NAMAFIREBASE',
+    authDomain: 'NAMAFIREBASE.firebaseapp.com',
+    databaseURL: 'https://NAMAFIREBASE-default-rtdb.asia-southeast1.firebasedatabase.app',
+    storageBucket: 'NAMAFIREBASE.firebasestorage.app',
     measurementId: 'G-CQ33E3WQQC',
   );
 
@@ -64,8 +64,8 @@ class DefaultFirebaseOptions {
     apiKey: 'AIzaSyCmXxV6Z6pz5HRJn6uesAafz7Afg9rR9V8',
     appId: '1:610083134108:android:1bc4f1b95ffdb356192b59',
     messagingSenderId: '610083134108',
-    projectId: 'belajarbersama-54559',
-    databaseURL: 'https://belajarbersama-54559-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'belajarbersama-54559.firebasestorage.app',
+    projectId: 'NAMAFIREBASE',
+    databaseURL: 'https://NAMAFIREBASE-default-rtdb.asia-southeast1.firebasedatabase.app',
+    storageBucket: 'NAMAFIREBASE.firebasestorage.app',
   );
 }

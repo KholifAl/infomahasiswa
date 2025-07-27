@@ -13,8 +13,8 @@ import 'package:flutter_image_compress/flutter_image_compress.dart';
 
 Future<String?> uploadToCloudinary(XFile file) async {
   const cloudName =
-      'dc3c8a2rv'; // ganti dengan cloud_name milikmu dari Cloudinary
-  const uploadPreset = 'belajarbersama';
+      'NAMACLOUD'; // ganti dengan cloud_name milikmu dari Cloudinary
+  const uploadPreset = 'NAMAFIREBASE';
 
   final url = Uri.parse(
     'https://api.cloudinary.com/v1_1/$cloudName/image/upload',
@@ -40,7 +40,7 @@ Future<String?> uploadToCloudinaryBytes(
   List<int> bytes,
   String filename,
 ) async {
-  const cloudName = 'dc3c8a2rv';
+  const cloudName = 'NAMACLOUD';
   const uploadPreset = 'belajarbersama';
 
   final url = Uri.parse(
